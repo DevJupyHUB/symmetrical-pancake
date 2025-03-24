@@ -9,7 +9,7 @@ Plots created during Matplotlib-Journey: [https://github.com/JosephBARBIERDARNAL
 
 ![bubble_small_multiples_footprint-Copy1](https://github.com/user-attachments/assets/aa5a9006-c25e-49a4-b8f0-9f8205a04dc5)
 
-![connected_scatter_netflix](https://github.com/user-attachments/assets/1ca3c006-1c39-46e0-94e5-7d637522dae4)
+![connected_scatter_netflix](https://github.com/user-attachments/assets/45d797ce-f817-4c43-b666-cd8c86196a96)
 
 ![filled_area_economic](https://github.com/user-attachments/assets/e9600fcc-2ec7-4969-9df4-03768b5bd5c1)
 
