@@ -1,5 +1,15 @@
 # symmetrical-pancake
-Plots created during Matplotlib-Journey: [https://github.com/JosephBARBIERDARNAL/data-matplotlib-journey](https://github.com/JosephBARBIERDARNAL/data-matplotlib-journey)
+
+Plots created during my Matplotlib-Journey. Datasets can be found [here](https://github.com/JosephBARBIERDARNAL/data-matplotlib-journey).
+
+
+
+
+
+
+
+
+
 
 ![bubble_map_ufo](https://github.com/user-attachments/assets/6b300bbc-7403-4e00-b1c8-a11a5388ab5d)
 
