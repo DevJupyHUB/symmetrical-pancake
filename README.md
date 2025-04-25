@@ -1,6 +1,81 @@
 # symmetrical-pancake
 
-Plots created during my Matplotlib-Journey. Datasets can be found [here](https://github.com/JosephBARBIERDARNAL/data-matplotlib-journey).
+Plots created during my Matplotlib-Journey. Datasets can be found on [Matplotlib-Journey](https://github.com/JosephBARBIERDARNAL/data-matplotlib-journey) Github page.
+
+
+[UFO Sightings](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Bubble_map_ufo.ipynb)
+
+<img src="/plots/bubble_map_ufo.png" width="75%"/>
+
+[Video Game Sales](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Stream_game_sales.ipynb)
+
+<img src="/plots/stream__game_sales.png" width="75%"/>
+
+[Netflix Movies](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Inset_axes_netflix.ipynb)
+
+<img src="/plots/inset_axes_netflix.png" width="75%"/>
+
+[Economic Measures](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Filled_area_economic.ipynb)
+
+<img src="/plots/filled_area_economic.png" width="75%"/>
+
+[Tropical Strorms](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Sankey_storms.ipynb)
+
+<img src="/plots/sankey_storms.png" width="75%"/>
+
+[Consumer Index](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Slope_economic.ipynb)
+
+<img src="/plots/slope_economic.png" width="75%"/>
+
+[NYC Airbnb](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Hexbin_NY_Airbnb.ipynb)
+
+<img src="/plots/Hexbin_NY_Airbnb.png" width="75%"/>
+
+[Middle East CO2 Emission](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Choropleth_map_CO2.ipynb)
+
+<img src="/plots/choropleth_map_CO2.png" width="75%"/>
+
+[Mario Kart](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Violin_Mario%20Kart.ipynb)
+
+<img src="/plots/violin_mario_kart.png" width="75%"/>
+
+[Mario Kart](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Dumbell_Mario%20Kart.ipynb)
+
+<img src="/plots/dumbell_mario_kart.png" width="75%"/>
+
+[Storms](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Donut_small_multiples_Storms.ipynb)
+
+<img src="/plots/donut_small_multiples_storm.png" width="75%"/>
+
+[Storms Comparison](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Stacked_bar_storms.ipynb)
+
+<img src="/plots/stacked_bar_storms.png" width="75%"/>
+
+[Natural Disasters](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Bubble_natural_disasters.ipynb)
+
+<img src="/plots/bubble_natural_disasters.png" width="75%"/>
+
+[Lethal Natural Disasters](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Waffle_natural_disasters.ipynb)
+
+<img src="/plots/waffle_natural_disasters.png" width="75%"/>
+
+[Netflix](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Connected_scatter_netflix.ipynb)
+
+<img src="/plots/connected_scatter_netflix.png" width="75%"/>
+
+[Footprint](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Bubble_small_multiples_footprint.ipynb)
+
+<img src="/plots/bubble_small_multiples_footprint-Copy1.png" width="75%"/>
+
+[Economic](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Fill_between_bg_economic.ipynb)
+
+<img src="/plots/fill_between_bg_economic.png" width="75%"/>
+
+[CO2 Emission](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Bubble_map_CO2.ipynb)
+
+<img src="/plots/bubble_map_CO2.png" width="75%"/>
+
+[Wine](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Contour_wine.ipynb)
 
 
 
@@ -11,41 +86,24 @@ Plots created during my Matplotlib-Journey. Datasets can be found [here](https:/
 
 
 
-![bubble_map_ufo](https://github.com/user-attachments/assets/6b300bbc-7403-4e00-b1c8-a11a5388ab5d)
 
-![choropleth_map_CO2](https://github.com/user-attachments/assets/d2c49f4f-fcbe-4b88-a84f-ee3793d93f50)
 
-![bubble_map_CO2](https://github.com/user-attachments/assets/eeefb996-a213-4473-9deb-a0626c67a832)
 
-![bubble_small_multiples_footprint-Copy1](https://github.com/user-attachments/assets/aa5a9006-c25e-49a4-b8f0-9f8205a04dc5)
 
-![connected_scatter_netflix](https://github.com/user-attachments/assets/45d797ce-f817-4c43-b666-cd8c86196a96)
 
-![filled_area_economic](https://github.com/user-attachments/assets/e9600fcc-2ec7-4969-9df4-03768b5bd5c1)
 
-![fill_between_bg_economic](https://github.com/user-attachments/assets/5479efef-cb62-4aef-92b2-b73ed3cf4dea)
 
-![waffle_natural_disasters](https://github.com/user-attachments/assets/de88b4cd-3b45-4655-bd6a-072edd0bb63b)
 
-![sankey_storms](https://github.com/user-attachments/assets/06144d3a-08f2-4ecf-ab3c-1a57d2a74d1d)
 
-![slope_economic](https://github.com/user-attachments/assets/51ee09e5-6287-4ae8-8b1d-eef54ebe2f15)
 
-![inset_axes_netflix](https://github.com/user-attachments/assets/c9e49113-6fc7-4488-a7c3-9722c8d07bdd)
 
-![stream__game_sales](https://github.com/user-attachments/assets/e975d0cf-7d66-438b-9466-d1f4c405d058)
 
-![Hexbin_NY_Airbnb](https://github.com/user-attachments/assets/51c83b2d-170f-42e5-b5bb-d75abf83575a)
 
-![violin_mario_kart](https://github.com/user-attachments/assets/fbb9d415-a7b5-401b-b580-cf34f99dc1ad)
 
-![dumbell_mario_kart](https://github.com/user-attachments/assets/abdc12dd-e802-4cb9-ae5b-ed221a3a4dc2)
 
-![bubble_natural_disasters](https://github.com/user-attachments/assets/7a698978-bba9-422c-8943-3d4505f23c11)
 
-![donut_small_multiples_storm](https://github.com/user-attachments/assets/b65662f0-40cb-48eb-b43d-953cb670a95f)
 
-![stacked_bar_storms](https://github.com/user-attachments/assets/02d836a2-e5a6-4f5d-bc8b-f9c71acae161)
+
 
 
 
