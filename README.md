@@ -77,6 +77,10 @@ Plots created during my Matplotlib-Journey. Datasets can be found on [Matplotlib
 
 [Wine](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Contour_wine.ipynb)
 
+<img src="/plots/contour_wine.png" width="75%"/>
+
+
+
 
 
 
