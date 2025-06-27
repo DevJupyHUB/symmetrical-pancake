@@ -3,6 +3,14 @@
 Plots created during my Matplotlib-Journey. Datasets can be found on [Matplotlib-Journey](https://github.com/JosephBARBIERDARNAL/data-matplotlib-journey) Github page.
 
 
+[Spike map](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Spike_map.ipynb)
+
+<img src="/plots/Spike_map_continous.png" width="75%"/>
+
+[Spike map](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Spike_map.ipynb)
+
+<img src="/plots/Spike_map_dicrete.png" width="75%"/>
+
 [UFO Sightings](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Bubble_map_ufo.ipynb)
 
 <img src="/plots/bubble_map_ufo.png" width="75%"/>
