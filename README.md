@@ -1,6 +1,6 @@
 <img src="/Matplotlib-Journey.png" width="75%"/> 
 
-This repository contains the plots created using datasets provided by the course.
+This repository contains the plots created using datasets provided by the course.<br>
 All the datasets can be found [here](https://github.com/JosephBARBIERDARNAL/data-matplotlib-journey)
 
 
