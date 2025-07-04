@@ -1,6 +1,7 @@
-# symmetrical-pancake
+<img src="/Matplotlib-Journey.png" width="75%"/> 
 
-Plots created during my Matplotlib-Journey. Datasets can be found on [Matplotlib-Journey](https://github.com/JosephBARBIERDARNAL/data-matplotlib-journey) Github page.
+This repository contains the plots created using datasets provided by the course.
+All the datasets can be found [here](https://github.com/JosephBARBIERDARNAL/data-matplotlib-journey)
 
 
 [Spike map](https://github.com/DevJupyHUB/symmetrical-pancake/blob/main/code/Spike_map.ipynb)
